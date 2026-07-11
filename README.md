@@ -5,7 +5,7 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.19-orange)](https://www.tensorflow.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)]()
 
-> Nine crop-specific CNN models detecting 33 plant diseases across 40,000+ leaf images — trained from scratch with no transfer learning. MSc Data Science Dissertation, St. Xavier's College (Autonomous), Kolkat
+> Nine crop-specific CNN models detecting 33 plant diseases across 40,000+ leaf images — trained from scratch with no transfer learning. MSc Data Science Dissertation, St. Xavier's College (Autonomous), Kolkata
 
 ---
 
